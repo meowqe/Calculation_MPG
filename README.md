@@ -37,6 +37,6 @@
 - Визуализация предсказаний и ошибок модели (Residuals Plot, Prediction Error)
 
 ---
-Инструменты и библиотеки
+## Инструменты и библиотеки
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Yellowbrick
